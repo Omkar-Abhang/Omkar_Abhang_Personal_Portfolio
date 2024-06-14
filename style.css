@@ -135,7 +135,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    margin: 70px;
+    margin: 30px;
     gap: 50px;
     flex-shrink: 200;
   }
